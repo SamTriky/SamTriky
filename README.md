@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning :
 - ReactJs & Redux
 - R and Deep Learning 
-- 💬 Ask me about ...
+- Dart & Flutter
+- 💬 Ask me about :
+- Web Dev - ML - Mobila Dev (IOS & ANDRIOD)
 - 📫 How to reach me:
+- Discord
 - Twitter
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
